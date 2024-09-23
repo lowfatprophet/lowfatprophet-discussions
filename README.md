@@ -1,2 +1,3 @@
-# lowfatprophet-discussions
-Discussion platform for the lowfatprophet website
+# lowfatprophet Discussions
+
+Join in on discussing the hottest topics on [lowfatprophet](https://lowfatprophet.codeberg.page)!
